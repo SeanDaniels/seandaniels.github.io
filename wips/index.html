@@ -4,7 +4,7 @@ title: Sean Daniels' WIP
 ---
 <h1>{{ page.title }}</h1>
 <ul class="posts">
-
+<!-- This iterates through the markdwon files in _posts and generates html files for them?? -->
 	{% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> > <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	{% endfor %}
