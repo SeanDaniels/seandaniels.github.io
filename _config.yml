@@ -30,6 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 collections:
   topics:
