@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Sean Daniels
 ---
 # Hello, Sean here
