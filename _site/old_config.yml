@@ -1,4 +1,0 @@
-name: Sean Daniels, Bad Coder
-markdown: kramdown
-permalink: /wips/:year/:month/:day/:title
-include: ['_pages']
