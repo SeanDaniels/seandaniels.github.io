@@ -1,3 +1,0 @@
-main:
-  - title: "Structures and Algorithms"
-    url: {{ site.url }}/structures-algorithms/
