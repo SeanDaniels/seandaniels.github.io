@@ -2,5 +2,6 @@ name: Sean Daniels
 markdown: kramdown
 include: ['_pages']
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+url: "https://seandaniels.github.io"
 plugins:
         - jekyll-include-cache
