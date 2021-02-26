@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Sean Daniels
+title: Welcom
 author_profile: true
 ---
 
