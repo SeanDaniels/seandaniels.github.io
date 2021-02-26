@@ -3,7 +3,8 @@ layout: home
 title: Sean Daniels
 author_profile: true
 ---
-# Hello, Sean here
+
+## Hello, Sean here
 
 I am using this space as an environment to learn and practice a few things. In no particular order, my goals are to:
 
