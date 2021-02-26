@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: home
 title: Sean Daniels
+author_profile: true
 ---
 # Hello, Sean here
 
