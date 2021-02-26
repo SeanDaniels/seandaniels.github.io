@@ -2,3 +2,6 @@ name: Sean Daniels, Bad Coder
 markdown: kramdown
 permalink: /wips/:year/:month/:day/:title
 include: ['_pages']
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+plugins:
+        - jekyll-include-cache
