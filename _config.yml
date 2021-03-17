@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Sean Daniels"
   # avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Professional Yak Shaver"
+  bio    : "Amateur Yak Shaver"
   links:
     - label: "Structures and Algorithms"
       icon: "fas fa-fw fa-link"

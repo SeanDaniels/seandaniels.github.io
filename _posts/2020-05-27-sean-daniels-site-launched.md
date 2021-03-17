@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sean Daniels, Bad Coder, Posting a post"
+title: "First post, temporal reference"
 date: 2020-05-27
 ---
 
